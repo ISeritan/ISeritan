@@ -1,10 +1,4 @@
-## Hi there 👋
-
-🎓 I'm a Master's student in Environmental Policy and Management at UC Davis. 
-
-🐦 I love birds and birding!
-
-🌱 I'm currently learning R. I look forward to using R to benefit environmental science!
+## hi there 👋 i'm learning R!
 
 <!--
 **ISeritan/ISeritan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
